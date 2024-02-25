@@ -7,13 +7,19 @@ La convención de nomenclatura de repositorios es una práctica fundamental en e
 
 Orientado al desarrollo tecnológico, al adoptar una convención de nomenclatura consistente, los equipos de desarrollo pueden mejorar la colaboración, reducir la ambigüedad y fomentar un ambiente organizado que facilita la búsqueda y el mantenimiento de código. La elección de una convención de nomenclatura adecuada es crucial para promover la claridad y la eficiencia en el ciclo de vida de desarrollo de software, asegurando una estructura coherente y fácil de entender para todos los colaboradores del proyecto.
 
-
 Para establecer el nombre de un repositorio se recomienda la siguiente estructura:
 
-Abbreviation basado en grupó  + nombre del proyecto + framework / lenguaje
+Abbreviation basado en grupo  + nombre del proyecto + framework / lenguaje
 
-Por ejemplo si deseamos crear una aplicación mobil para ventas, un posible nombre del repositorio sería:  mad-sale-mern
+> Abbreviation basado en grupó  + nombre del proyecto + framework /  lenguaje
+
+Por ejemplo si deseamos crear una aplicación mobil para ventas, un posible nombre del repositorio sería:  
+
+> mad-sale-mern
+
 Lo cual indica que es un Desarrollo de aplicaciones móviles, llamado sale usando mern stack
+
+### Tabla de grupos y categorías
 
 
 | Group                           | Categoría                                       | Abbreviation                                     |
