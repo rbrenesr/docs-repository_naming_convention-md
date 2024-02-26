@@ -9,15 +9,25 @@ Orientado al desarrollo tecnológico, al adoptar una convención de nomenclatura
 
 Para establecer el nombre de un repositorio se recomienda la siguiente estructura:
 
+### Estructura de nomenclatura de repositorios
+
 Abbreviation basado en grupo  + nombre del proyecto + framework / lenguaje
 
 > Abbreviation basado en grupó  + nombre del proyecto + framework /  lenguaje
 
 Por ejemplo si deseamos crear una aplicación mobil para ventas, un posible nombre del repositorio sería:  
 
-> mad-sale-mern
+> mad-saleforce-mern
 
 Lo cual indica que es un Desarrollo de aplicaciones móviles, llamado sale usando mern stack
+
+### Estructura de nomenclatura de repositorios para proyectos educativos
+
+> edu + Abbreviation basado en grupo  + nombre del proyecto + framework / lenguaje
+
+Por ejemplo:
+
+> edu-wad-peliculas-wasm
 
 ### Tabla de grupos y categorías
 
@@ -66,6 +76,8 @@ Lo cual indica que es un Desarrollo de aplicaciones móviles, llamado sale usand
 |                                 | - Procesamiento de lenguaje natural             | (nlp) Natural_Language_Processing                |
 | Game Development                | - Desarrollo de videojuegos                     | (gd) Game_Development                            |
 |                                 | - Gráficos y animación                          | (ga) Graphics_and_Animation                      |
+| Education and courses           | - Education and courses					        | (edu) Education and courses                      |
+
 
 
 
