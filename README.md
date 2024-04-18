@@ -34,7 +34,8 @@ Por ejemplo:
 
 | Group                           | Categoría                                       | Abbreviation                                     |
 |---------------------------------|-------------------------------------------------|--------------------------------------------------|
-| Software Development            | - Desarrollo de aplicaciones web                | (wad) Web_Applications_Development               |
+| Software Development            | - Desarrollo de página web                      | (wap) Web_Page_Development                       |
+|                                 | - Desarrollo de aplicaciones web                | (wad) Web_Applications_Development               |
 |                                 | - Desarrollo de aplicaciones móviles            | (mad) Mobile_Application_Development             |
 |                                 | - Desarrollo de escritorio                      | (dd) Desktop_Development                         |
 |                                 | - Desarrollo de sistemas embebidos              | (des) Development_Embedded_Systems               |
